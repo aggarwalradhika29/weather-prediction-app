@@ -16,8 +16,8 @@ Check the current weather on any city on the planet. Switch between metric and i
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/weather-app.git`
-2. `cd weather-app`
+1. `git clone https://github.com/aggarwalradhika29/weather-prediction-app.git`
+2. `cd weather-predicition-app`
 3. `npm install`
 4. Log-in to [Openweathermap.com](https://openweathermap.org/)
 5. Create an API key
