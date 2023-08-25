@@ -9,3 +9,4 @@ Check the current weather on any city on the planet. Switch between metric and i
 3. Temperatures and humidity
 4. Wind speed and direction
 
+Web link: https://radhika-weather.netlify.app/
